@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Steven Alan Parkison
-email: saparkison@gmail.com
+email: saparkison at gmail dot com
 description: >- # this means to ignore newlines until "baseurl:"
-  THIS HUMAN IS
+  THIS PERSON IS
   PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING
   BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
   PURPOSE AND NONINFRINGEMENT.
